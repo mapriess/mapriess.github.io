@@ -1,12 +1,14 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
 description: Projects I am working on.
 nav: true
 display_categories: #[work, fun]
 horizontal: false
 ---
+
+Will follow ...
 
 <!-- pages/projects.md -->
 <div class="projects">
