@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Professor for business informatics
+subtitle: Data Scientist, Professor for business informatics
 
 profile:
   align: right
