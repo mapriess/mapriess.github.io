@@ -3,6 +3,7 @@ layout: about
 title: About
 permalink: /
 subtitle: data scientist | professor in the field of business informatics
+last_modified_at:   2022-05-24 21:00:00 +0000
 
 profile:
   align: right

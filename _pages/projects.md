@@ -3,6 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 description: Projects I am working on.
+last_modified_at:   2022-05-24 21:00:00 +0000
 nav: true
 display_categories: #[work, fun]
 horizontal: false
