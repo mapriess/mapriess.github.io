@@ -22,8 +22,7 @@ Before, I was able to implement and develop this technical orientation at <a hre
 
 As dean (and former head of department) I have been successfully leading the department of Business Informatics at the <a href="https://www.dhsh.de" target="_blank">Duale Hochschule Schleswig-Holstein (DHSH)</a> for over four years now. I played a key role in the successful transformation of the former university of cooperative education into the new DHSH. 
 
-I am crazy for many kinds of sports, climbing, hiking, mountain biking, kitesurfing, snowboarding and skiing (especially touring ski) and finally kite foiling. I started the latter in 2018 and this is, among being in the mountains, my absolute favorite sport. Its fast, challenging, feels like flying and you can go out at and explore so many different places not possible using usual surfing setups.
-
-Apart from my love for sports, I am father of two lovely and crazy little sons, happily married and love my job as a professor in Kiel working with young talents.
-
 I am a highly commited person love working at the cutting edge together with clever people.
+
+Apart from work, I am crazy for many kinds of sports, climbing, hiking, mountain biking, kitesurfing, snowboarding and skiing (especially touring ski) and finally kite foiling. I started the latter in 2018 and this is, among being in the mountains, my absolute favorite sport. Its fast, challenging, feels like flying and you can go out at and explore so many different places not possible using usual surfing setups. I am father of two lovely and crazy little sons and happily married.
+
