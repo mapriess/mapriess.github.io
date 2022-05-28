@@ -19,7 +19,7 @@ nav: true
     <tbody>
         <tr>
             <td align="left" valign="top"> <b> 2008 – 2012 </b> </td>
-            <td align="left" valign="top"> <a href="https://www.uni-kiel.de/de/" target="_blank">Christian-Albrechts-University of Kiel</a>, <a href="https://www.inf.uni-kiel.de/en" target="_blank">Department of Computer Science </a>, <a href="https://www.algopt.informatik.uni-kiel.de/en" target="_blank">Junior Research group: Algorithmic Optimal Control </a> <br> Dr. rer. nat. (magan cum laude) <br> <a href="https://macau.uni-kiel.de/receive/diss_mods_00007782?lang=de" target="_blank">"Surrogate-Based Optimization for Marine Ecosystem Models" </a> </td>
+            <td align="left" valign="top"> <a href="https://www.uni-kiel.de/de/" target="_blank">Christian-Albrechts-University of Kiel</a>, <a href="https://www.inf.uni-kiel.de/en" target="_blank">Department of Computer Science </a>, <a href="https://www.algopt.informatik.uni-kiel.de/en" target="_blank">Junior Research group: Algorithmic Optimal Control </a> <br> Dr. rer. nat. (magna cum laude) <br> <a href="https://macau.uni-kiel.de/receive/diss_mods_00007782?lang=de" target="_blank">"Surrogate-Based Optimization for Marine Ecosystem Models" </a> </td>
         </tr>
         <tr>
             <td align="left" valign="top"> <b>2002 – 2007 </b> </td>
@@ -53,7 +53,7 @@ nav: true
     <tbody>
         <tr>
             <td align="left" valign="top"> <b> since 2016 </b> </td>
-            <td align="left" valign="top"> <a href="https://www.dhsh.de" target="_blank"> Duale Hochschule Schleswig-Holstein </a> (former: Berufsakademie), Kiel <br> Dean and professor for business informatics </td>            
+            <td align="left" valign="top"> <a href="https://www.dhsh.de" target="_blank"> Duale Hochschule Schleswig-Holstein</a> (former: Berufsakademie), Kiel <br> Dean and professor for business informatics </td>            
         </tr>
         <tr>
             <td align="left" valign="top"> <b> 2013 – 2014 <br> 2015 – 2016 </b> </td>
@@ -69,7 +69,7 @@ nav: true
         </tr>        
         <tr>
             <td align="left" valign="top"> <b> 2012 – 2013 </b> </td>
-            <td align="left" valign="top"> Helmholtz Centre for Ocean Research Kiel <a href="https://www.geomar.de/" target="_blank"> GEOMAR</a>, Germany <br> Research assistant </td>
+            <td align="left" valign="top"> <a href="https://www.geomar.de/" target="_blank"> Helmholtz Centre for Ocean Research Kiel (GEOMAR)</a>, Germany <br> Research assistant </td>
         </tr>        
         <tr>
             <td align="left" valign="top"> <b> 2010 – 2013 </b> </td>
@@ -77,7 +77,7 @@ nav: true
         </tr>        
         <tr>
             <td align="left" valign="top"> <b> 2009 </b> </td>
-            <td align="left" valign="top"> <a href="https://www.mckinsey.de/" target="_blank"> MCKinsey </a>, Frankfurt, Germany <br> Business Technology Seminar "BTO Inside" </td>
+            <td align="left" valign="top"> <a href="https://www.mckinsey.de/" target="_blank"> MCKinsey</a>, Frankfurt, Germany <br> Business Technology Seminar "BTO Inside" </td>
         </tr>        
         <tr>
             <td align="left" valign="top"> <b> 2008 – 2012 </b> </td>
@@ -85,7 +85,7 @@ nav: true
         </tr>        
         <tr>
             <td align="left" valign="top"> <b> 2008 </b> </td>
-            <td align="left" valign="top">Leibniz-Institut für Meeresforschung Kiel (<a href="https://www.geomar.de/news/article/aus-ifm-geomar-wird-geomar" target="_blank">IFM-GEOMAR</a>), Kiel <br> Research assistant in the DFG project <a href="https://gepris.dfg.de/gepris/projekt/42144659?context=projekt&task=showDetail&id=42144659&" target="_blank">INTERDYNAMIK, "LOOP Current variability"</a></td>
+            <td align="left" valign="top"> <a href="https://www.geomar.de/news/article/aus-ifm-geomar-wird-geomar" target="_blank"> Leibniz-Institut für Meeresforschung Kiel (IFM-GEOMAR)</a>, Kiel <br> Research assistant in the DFG project <a href="https://gepris.dfg.de/gepris/projekt/42144659?context=projekt&task=showDetail&id=42144659&" target="_blank">INTERDYNAMIK, "LOOP Current variability"</a></td>
         </tr>        
         <tr>
             <td align="left" valign="top"> <b> 2007 </b> </td>
