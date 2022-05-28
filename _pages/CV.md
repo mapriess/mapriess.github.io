@@ -77,7 +77,7 @@ nav: true
         </tr>        
         <tr>
             <td align="left" valign="top"> <b> 2009 </b> </td>
-            <td align="left" valign="top"> <a href="https://www.mckinsey.de/" target="_blank"> MCKinsey</a>, Frankfurt, Germany <br> Business Technology Seminar "BTO Inside" </td>
+            <td align="left" valign="top"> <a href="https://www.mckinsey.de/" target="_blank"> McKinsey & Company</a>, Frankfurt, Germany <br> Business Technology Seminar "BTO Inside" </td>
         </tr>        
         <tr>
             <td align="left" valign="top"> <b> 2008 – 2012 </b> </td>
