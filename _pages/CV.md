@@ -73,7 +73,7 @@ nav: true
         </tr>        
         <tr>
             <td align="left" valign="top"> <b> 2010 – 2013 </b> </td>
-            <td align="left" valign="top"> Engineering Optimization & Modeling Center, <a href="https://en.ru.is/st/de/" target="_blank"> Department of Engineering</a>, <a href="https://en.ru.is" target="_blank">Reykjavik University</a>, Iceland <br> Cooperation with<a href="https://en.ru.is/the-university/faculty-and-staff/koziel" target="_blank"> Prof. Slawomir Koziel</a>, stays of study, guest lectures </td>
+            <td align="left" valign="top"> <a href="http://eomc.ru.is/eoml_index.html" target="_blank">Engineering Optimization & Modeling Center</a>, <a href="https://en.ru.is/st/de/" target="_blank"> Department of Engineering</a>, <a href="https://en.ru.is" target="_blank">Reykjavik University</a>, Iceland <br> Cooperation with<a href="https://en.ru.is/the-university/faculty-and-staff/koziel" target="_blank"> Prof. Slawomir Koziel</a>, stays of study, guest lectures </td>
         </tr>        
         <tr>
             <td align="left" valign="top"> <b> 2009 </b> </td>
