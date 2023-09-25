@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-07-31 18:00:00 +0000
+date: 2023-07-14 18:00:00 +0000
 inline: true
 ---
 
-Paper "Ethische Rahmenbedingungen beim Einsatz von KI im Projektgeschäft – Gefahren und Chancen der KI" (Prechel, K. and Prieß, M.) submitted and accepted (in preparation for print) as part of the title "KI in der Projektwirtschaft", [Gesellschaft für Projektmanagement (GPM)](https://www.gpm-ipma.de).
+Paper "KI lehren, KI lernen an der DHSH – Potentiale für die Bildungslandschaft" (Prieß, M. and Prechel, K.) submitted as part of the [workshop "KI-Bildung"](https://ki-bildung.github.io/2023/index.html) at the [Informatik Festival 2023](https://informatik2023.gi.de/registration_speaker.html), [Gesellschaft für Informatik (GI)](https://gi.de).
