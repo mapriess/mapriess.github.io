@@ -9,7 +9,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Malte Prieß | blog</title>
+    <title>Malte Prieß | Projects</title>
     <meta name="author" content="Malte  Prieß" />
     <meta name="description" content="This is a scientific profile of Malte Prieß, data scientist and professor in the field of business informatics >" />
     <meta name="keywords" content="Malte Prieß profile, jekyll, jekyll-theme, academic-website, portfolio-website" />
@@ -32,7 +32,7 @@
     <link rel="shortcut icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>⚛️</text></svg>">
     
     <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="canonical" href="https://mapriess.github.io/blog/">
+    <link rel="canonical" href="https://mapriess.github.io/projects/">
     
     <!-- Dark Mode -->
     
@@ -75,19 +75,19 @@
               <li class="nav-item ">
                 <a class="nav-link" href="/educEmpl/">CV</a>
               </li>
-              <li class="nav-item ">
-                <a class="nav-link" href="/projects/">Projects</a>
+              <li class="nav-item active">
+                <a class="nav-link" href="/projects/">Projects<span class="sr-only">(current)</span></a>
               </li>
               <li class="nav-item ">
-                <a class="nav-link" href="/publications/">Publications & Proposals</a>
+                <a class="nav-link" href="/publications/">Publications &amp; Proposals</a>
               </li>
               <li class="nav-item ">
                 <a class="nav-link" href="/teaching/">Teaching</a>
               </li>
 
               <!-- Toogle theme mode -->
-              <div class = "toggle-container">
-                <a id = "light-toggle">
+              <div class="toggle-container">
+                <a id="light-toggle">
                   <i class="fas fa-moon"></i>
                   <i class="fas fa-sun"></i>
                 </a>
@@ -100,28 +100,48 @@
 
     <!-- Content -->
     <div class="container mt-5">
-      <div class="post">
+      <!-- page.html -->
+        <div class="post">
 
-  <div class="header-bar">
-    <h1></h1>
-    <h2></h2>
+          <header class="post-header">
+            <h1 class="post-title">Projects</h1>
+            <p class="post-description"></p>
+          </header>
+
+          <article>
+            <p>Here are some of the projects I’m currently working on:</p>
+
+<ol>
+  <li>
+    <p>Automated invoice recognition: <br>
+The project includes an implementation and evaluation of the application of the open source model LayoutLM in a business context for the automatic recognition of German invoice documents.</p>
+  </li>
+  <li>
+    <p>Third-party funding application R&amp;D cooperation project, AI modules for craft enterprises: <br>
+As part of the project, we are pursuing the development of innovative AI modules that are specially tailored to the needs of the skilled trades.</p>
+  </li>
+  <li>
+    <p>Product in the area of IT security, pen testing (junior penetration tester)</p>
+  </li>
+</ol>
+
+<!-- pages/projects.md -->
+<div class="projects">
+<!-- Display projects without categories --><!-- Generate cards for each project -->
+  <div class="grid">
   </div>
-
-
-  <ul class="post-list">
-    
-  </ul>
-
-  
-
 </div>
+
+          </article>
+
+        </div>
 
     </div>
 
     <!-- Footer -->    
     <footer class="fixed-bottom">
       <div class="container mt-0">
-        &copy; Copyright 2024 Malte  Prieß. Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+        © Copyright 2024 Malte  Prieß. Powered by <a href="https://jekyllrb.com/" target="_blank" rel="noopener noreferrer">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" target="_blank" rel="noopener noreferrer">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank" rel="noopener noreferrer">GitHub Pages</a>.
 Last updated: June 27, 2024.
       </div>
     </footer>
