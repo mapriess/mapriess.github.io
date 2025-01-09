@@ -53,7 +53,7 @@ nav: true
     <tbody>
         <tr>
             <td align="left" valign="top"> <b> since 2024 </b> </td>
-            <td align="left" valign="top"> <a href="https://www.fh-kiel.de" target="_blank"> FH Kiel</a>, <a href="https://www.fh-kiel.de/fachbereiche/informatik-und-elektrotechnik/" target="_blank"> FB Informatik und Elektrotechnik</a> <br> Professor for cloud technologies </td>            
+            <td align="left" valign="top"> <a href="https://www.fh-kiel.de" target="_blank"> FH Kiel</a>, <a href="https://www.fh-kiel.de/en/faculties/faculty-of-computer-science-and-electrical-engineering/" target="_blank"> FB Informatik und Elektrotechnik</a> <br> Faculty of Computer Science and Electrical Engineering </td>            
         </tr>
         <tr>
             <td align="left" valign="top"> <b> 2016 - 2024 </b> </td>
