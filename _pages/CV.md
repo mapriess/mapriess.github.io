@@ -52,7 +52,11 @@ nav: true
     </thead>
     <tbody>
         <tr>
-            <td align="left" valign="top"> <b> since 2016 </b> </td>
+            <td align="left" valign="top"> <b> since 2024 </b> </td>
+            <td align="left" valign="top"> <a href="https://www.fh-kiel.de" target="_blank"> FH Kiel</a>, <a href="https://www.fh-kiel.de/fachbereiche/informatik-und-elektrotechnik/" target="_blank"> FB Informatik und Elektrotechnik</a> <br> Professor for cloud technologies </td>            
+        </tr>
+        <tr>
+            <td align="left" valign="top"> <b> 2016 - 2024 </b> </td>
             <td align="left" valign="top"> <a href="https://www.dhsh.de" target="_blank"> Duale Hochschule Schleswig-Holstein</a> (former: Berufsakademie), Kiel <br> Dean and professor for business informatics </td>            
         </tr>
         <tr>
