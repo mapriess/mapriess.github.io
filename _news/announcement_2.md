@@ -1,7 +1,10 @@
 ---
 layout: post
-date: 2022-07-07 18:00:00 +0000
-inline: false
+date: 2025-04-10 18:00:00 +0000
+inline: true
 ---
 
-Submission (Mehra, Prieß, Peters: "Evaluierung des Dense Passage Retrievals zur Dokumentensuche in Behörden im Vergleich zu BM25") to [AKWI2022](https://akwi2022.htw-berlin.de) accepted.
+The Sixteenth International Conference on Cloud Computing, GRIDs, and Virtualization CLOUD COMPUTING 2025:
+
+- Joint publication and Best Paper Award: "Graph of Effort: Quantifying Risk of AI Usage for Vulnerability Assessment" 
+- Panelist for cloud computing at the panel discussion "AI-related Challenges on Security of Cloud Services"
