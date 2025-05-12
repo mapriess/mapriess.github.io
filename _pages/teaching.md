@@ -28,7 +28,41 @@ I am lecturer in the field of cloud technologies, programming, KI/ML and softwar
 - Software Projects 
 - Software Engineering
 - Mathematics
- 
 
+# Topics for thesis (Bachelor/Master) and projects
+The following proposed topics address current issues at the interface of cloud computing, artificial intelligence and modern software engineering. The focus is on innovative approaches to scaling, automation and optimisation of complex systems.
+
+The topics are suitable for both Bachelor's and Master's theses and can be individually adapted to your interests and specialisations.
+
+If you are interested or have any questions about a topic, please do not hesitate to contact me for a personal discussion.
+
+**Cloud Computing**
+
+- Serverless deployment of AI models on multi-cloud environments
+- Comparison of PaaS platforms for containerised applications
+- Multi-cloud management with infrastructure as code
+- Monitoring/observability frameworks for cloud-native architectures
+- Security validation in cloud-native CI/CD processes
+- Comparison of heuristic methods for large-scale scheduling of jobs on resources
+- Development of a scalable scheduling framework based on metaheuristics 
+- Optimisation of scheduling decisions in Kubernetes
+- Development and benchmarking of hybrid scheduling approaches (heuristics + AI) for NP-hard resource allocation problems
+ 
+**Künstliche Intelligenz**
+
+- Resource optimisation in the cloud with reinforcement learning
+- LLM-supported university services
+- Anomaly detection in distributed systems
+- Explainability of AI models in critical applications
+- Edge deployment of neural networks
+- Use of reinforcement learning to optimise dynamic scheduling problems
+- Comparison of classical optimisation (e.g. MILP) and deep reinforcement learning for scheduling scenarios
+- Training a neural network to prioritise jobs in real-time systems
+
+**Software-Engineering**
+
+- Clean architecture for serverless systems
+- Automated code reviews with AI
+- Domain-Driven Design in AI-based applications
   
 
