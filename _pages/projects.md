@@ -9,7 +9,9 @@ display_categories: #[work, fun]
 horizontal: false
 ---
 
-Here are some of the projects I'm currently working on:
+Update coming ...
+
+<!-- Here are some of the projects I'm currently working on:
 
 - Automated invoice recognition: <br> 
   The project includes an implementation and evaluation of the application of the open source model LayoutLM in a business context for the automatic recognition of German invoice documents. 
@@ -17,7 +19,7 @@ Here are some of the projects I'm currently working on:
 - Third-party funding application R&D cooperation project, AI modules for craft enterprises: <br>
   As part of the project, we are pursuing the development of innovative AI modules that are specially tailored to the needs of the skilled trades.
 
-<!-- 3. Product in the area of IT security, pen testing (junior penetration tester) -->
+- Product in the area of IT security, pen testing (junior penetration tester) -->
 
 <!-- pages/projects.md -->
 <div class="projects">
