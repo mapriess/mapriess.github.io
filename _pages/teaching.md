@@ -29,7 +29,7 @@ I am lecturer in the field of cloud technologies, programming, KI/ML and softwar
 - Software Engineering
 - Mathematics
 
-# Topics for thesis (Bachelor/Master) and projects
+# Thesis (Bachelor/Master) and project topics
 The following proposed topics address current issues at the interface of cloud computing, artificial intelligence and modern software engineering. The focus is on innovative approaches to scaling, automation and optimisation of complex systems.
 
 The topics are suitable for both Bachelor's and Master's theses and can be individually adapted to your interests and specialisations.
