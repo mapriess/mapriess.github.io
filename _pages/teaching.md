@@ -48,7 +48,7 @@ If you are interested or have any questions about a topic, please do not hesitat
 - Optimisation of scheduling decisions in Kubernetes
 - Development and benchmarking of hybrid scheduling approaches (heuristics + AI) for NP-hard resource allocation problems
  
-**Künstliche Intelligenz**
+**Artificial intelligence**
 
 - Resource optimisation in the cloud with reinforcement learning
 - LLM-supported university services
