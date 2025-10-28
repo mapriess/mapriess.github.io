@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi there, my name is Malte Prieß and I am an enthusiastic professor and scientist in the field of cloud technologies, programming, software engineering and KI/ML, data science, working as a [professor for cloud technologies](https://www.fh-kiel.de/fachbereiche/informatik-und-elektrotechnik/wir-ueber-uns/lehre/professuren-und-lehrkraefte-fuer-besondere-aufgaben-lfba/priess-prof-dr-malte/) at the [FH Kiel](https://www.fh-kiel.de), [https://www.fh-kiel.de/en/faculties/faculty-of-computer-science-and-electrical-engineering/](Faculty of Computer Science and Electrical Engineering).
+Hi there, my name is Malte Prieß and I am an enthusiastic professor and scientist in the field of cloud technologies, programming, software engineering and KI/ML, data science, working as a [professor for cloud technologies and applied computer science](https://www.fh-kiel.de/fachbereiche/informatik-und-elektrotechnik/wir-ueber-uns/lehre/professuren-und-lehrkraefte-fuer-besondere-aufgaben-lfba/priess-prof-dr-malte/) at the [FH Kiel | University of Applied Sciences](https://www.fh-kiel.de), [Faculty of Computer Science and Electrical Engineering](https://www.fh-kiel.de/en/faculties/faculty-of-computer-science-and-electrical-engineering/).
 
 I am a highly commited person love working at the cutting edge together with clever people.
 
