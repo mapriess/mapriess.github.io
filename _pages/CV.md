@@ -53,15 +53,15 @@ nav: true
     <tbody>
         <tr>
             <td align="left" valign="top"> <b> since 2024 </b> </td>
-            <td align="left" valign="top"> <a href="https://www.fh-kiel.de" target="_blank"> FH Kiel | University of Applied Sciences</a>, <a href="https://www.fh-kiel.de/en/faculties/faculty-of-computer-science-and-electrical-engineering/" target="_blank"> Faculty of Computer Science and Electrical Engineering</a> <br> Professor for cloud technologies and applied computer science </td>            
+            <td align="left" valign="top"> <a href="https://www.fh-kiel.de/en/home/" target="_blank"> FH Kiel | University of Applied Sciences</a>, <a href="https://www.fh-kiel.de/en/faculties/faculty-of-computer-science-and-electrical-engineering/" target="_blank"> Faculty of Computer Science and Electrical Engineering</a> <br> Professor for cloud technologies and applied computer science </td>            
         </tr>
         <tr>
             <td align="left" valign="top"> <b> 2016 - 2024 </b> </td>
-            <td align="left" valign="top"> <a href="https://www.dhsh.de" target="_blank"> Duale Hochschule Schleswig-Holstein</a> (former: Berufsakademie), Kiel <br> Dean and professor for business informatics </td>            
+            <td align="left" valign="top"> <a href="https://www.dhsh.de" target="_blank"> DHSH University of Applied Sciences</a> (former: Berufsakademie), Kiel <br> Dean and professor for business informatics </td>            
         </tr>
         <tr>
             <td align="left" valign="top"> <b> 2013 – 2014 <br> 2015 – 2016 </b> </td>
-            <td align="left" valign="top"> <a href="https://www.d-fine.com/" target="_blank"> d-fine GmbH </a> <br> Consultant (area: IT, Technology), project assignments in Germany, Italy, France </td>
+            <td align="left" valign="top"> <a href="https://www.d-fine.com/en/" target="_blank"> d-fine GmbH </a> <br> Consultant (area: IT, Technology), project assignments in Germany, Italy, France </td>
         </tr>
         <tr>
             <td align="left" valign="top"> <b> 2014 – 2015 </b> </td>
@@ -73,7 +73,7 @@ nav: true
         </tr>        
         <tr>
             <td align="left" valign="top"> <b> 2012 – 2013 </b> </td>
-            <td align="left" valign="top"> <a href="https://www.geomar.de/" target="_blank"> Helmholtz Centre for Ocean Research Kiel (GEOMAR)</a>, Germany <br> Research assistant </td>
+            <td align="left" valign="top"> <a href="https://www.geomar.de/en/" target="_blank"> Helmholtz Centre for Ocean Research Kiel (GEOMAR)</a>, Germany <br> Research assistant </td>
         </tr>        
         <tr>
             <td align="left" valign="top"> <b> 2010 – 2013 </b> </td>
