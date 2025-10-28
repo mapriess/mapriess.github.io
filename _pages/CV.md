@@ -19,11 +19,11 @@ nav: true
     <tbody>
         <tr>
             <td align="left" valign="top"> <b> 2008 – 2012 </b> </td>
-            <td align="left" valign="top"> <a href="https://www.uni-kiel.de/de/" target="_blank">Christian-Albrechts-University of Kiel</a>, <a href="https://www.inf.uni-kiel.de/en" target="_blank">Department of Computer Science </a>, <a href="https://www.algopt.informatik.uni-kiel.de/en" target="_blank">Junior Research group: Algorithmic Optimal Control </a> <br> Dr. rer. nat. (magna cum laude) <br> <a href="https://macau.uni-kiel.de/receive/diss_mods_00007782?lang=de" target="_blank">"Surrogate-Based Optimization for Marine Ecosystem Models" </a> </td>
+            <td align="left" valign="top"> <a href="https://www.uni-kiel.de/en/" target="_blank">Kiel University | Christian-Albrechts-Universität zu Kiel</a>, <a href="https://www.uni-kiel.de/en/tf/faculty/institutes/computer-science" target="_blank">Department of Computer Science </a>, <a href="https://www.algopt.informatik.uni-kiel.de/en" target="_blank">Junior Research group: Algorithmic Optimal Control </a> <br> Dr. rer. nat. (magna cum laude) <br> <a href="https://macau.uni-kiel.de/receive/diss_mods_00007782?lang=de" target="_blank">"Surrogate-Based Optimization for Marine Ecosystem Models" </a> </td>
         </tr>
         <tr>
             <td align="left" valign="top"> <b>2002 – 2007 </b> </td>
-            <td align="left" valign="top"> <a href="https://www.uni-hannover.de/en/" target="_blank">Leibniz University Hanover</a>, <a href="https://www.aei.mpg.de/" target="_blank">Max Planck Institute for Gravitational Physics</a> <br> Diploma in Physics (with distinction) <br> <a href="https://www.astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/hannover/aei/JB-AEI_Hannover-2007.pdf" target="_blank">"Data Analysis in Gravitational Wave Physics" </a> </td>
+            <td align="left" valign="top"> <a href="https://www.uni-hannover.de/en/" target="_blank">Leibniz University Hanover</a>, <a href="https://www.aei.mpg.de/" target="_blank">Max Planck Institute for Gravitational Physics</a> <br> Diploma in Physics (with distinction) <br> <a href="https://www.astronomische-gesellschaft.de/de/aktivitaeten/publ/jb/inst/hannover/aei/JB-AEI_Hannover-2007.pdf" target="_blank">"Data Analysis in Gravitational Wave Physics" (Mitteilungen der Astronomischen Gesellschaft 91 (2008), p. 356)</a> </td>
         </tr>
         <tr>
             <td align="left" valign="top"> <b> 2005 </b> </td>
@@ -53,7 +53,7 @@ nav: true
     <tbody>
         <tr>
             <td align="left" valign="top"> <b> since 2024 </b> </td>
-            <td align="left" valign="top"> <a href="https://www.fh-kiel.de/en/home/" target="_blank"> FH Kiel | University of Applied Sciences</a>, <a href="https://www.fh-kiel.de/en/faculties/faculty-of-computer-science-and-electrical-engineering/" target="_blank"> Faculty of Computer Science and Electrical Engineering</a> <br> Professor for cloud technologies and applied computer science </td>            
+            <td align="left" valign="top"> <a href="https://www.fh-kiel.de/en/home/" target="_blank"> FH Kiel | University of Applied Sciences</a>, <a href="https://www.fh-kiel.de/en/faculties/faculty-of-computer-science-and-electrical-engineering/" target="_blank"> Faculty of Computer Science and Electrical Engineering</a> <br> <a href="https://www.fh-kiel.de/en/faculties/faculty-of-computer-science-and-electrical-engineering/about-us/teaching/priess-prof-dr-malte/"> Professor for cloud technologies and applied computer science</a> </td>            
         </tr>
         <tr>
             <td align="left" valign="top"> <b> 2016 - 2024 </b> </td>
@@ -65,7 +65,7 @@ nav: true
         </tr>
         <tr>
             <td align="left" valign="top"> <b> 2014 – 2015 </b> </td>
-            <td align="left" valign="top"> <a href="https://www.gymnasium-hochrad.de/" target="_blank"> Gymnasium Hochrad</a>, Hamburg <br> Teacher (mathematics, physics), preparatory service </td>
+            <td align="left" valign="top"> <a href="https://www.gymnasium-hochrad.de/english/" target="_blank"> Gymnasium Hochrad</a>, Hamburg <br> Teacher (mathematics, physics), preparatory service </td>
         </tr>        
         <tr>
             <td align="left" valign="top"> <b> 2014 </b> </td>
@@ -77,7 +77,7 @@ nav: true
         </tr>        
         <tr>
             <td align="left" valign="top"> <b> 2010 – 2013 </b> </td>
-            <td align="left" valign="top"> <a href="http://eomc.ru.is/eoml_index.html" target="_blank">Engineering Optimization & Modeling Center</a>, <a href="https://en.ru.is/st/de/" target="_blank"> Department of Engineering</a>, <a href="https://en.ru.is" target="_blank">Reykjavik University</a>, Iceland <br> Cooperation with<a href="https://en.ru.is/the-university/faculty-and-staff/koziel" target="_blank"> Prof. Slawomir Koziel</a>, stays of study, guest lectures </td>
+            <td align="left" valign="top"> <a href="https://www.ru.is/en/research-center/engineering-optimization-modeling-center-eomc" target="_blank">Engineering Optimization & Modeling Center (EOMC)</a>, <a href="https://en.ru.is/st/de/" target="_blank"> Department of Engineering</a>, <a href="https://www.ru.is/en" target="_blank">Reykjavik University</a>, Iceland <br> Cooperation with<a href="https://en.ru.is/the-university/faculty-and-staff/koziel" target="_blank"> Prof. Slawomir Koziel</a>, stays of study, guest lectures </td>
         </tr>        
         <tr>
             <td align="left" valign="top"> <b> 2009 </b> </td>
@@ -85,11 +85,11 @@ nav: true
         </tr>        
         <tr>
             <td align="left" valign="top"> <b> 2008 – 2012 </b> </td>
-            <td align="left" valign="top"> <a href="https://www.futureocean.org/en/cluster/index.php" target="_blank"> Cluster of Excellence "The Future Ocean"</a>, <a href="https://www.uni-kiel.de/de/" target="_blank"> Christian-Albrechts-University of Kiel</a>, <a href="https://www.inf.uni-kiel.de/en" target="_blank"> Department of Computer Science</a>, <a href="https://www.algopt.informatik.uni-kiel.de/en" target="_blank"> Junior Research group: Algorithmic Optimal Control</a> <br> Research assistant </td>
+            <td align="left" valign="top"> <a href="https://futureocean.org/en/index-2.html" target="_blank"> Cluster of Excellence "The Future Ocean"</a>, <a href="https://www.uni-kiel.de/en/" target="_blank"> Kiel University, Christian-Albrechts-Universität zu Kiel</a>, <a href="https://www.uni-kiel.de/en/tf/faculty/institutes/computer-science" target="_blank"> Department of Computer Science</a>, <a href="https://www.algopt.informatik.uni-kiel.de/en" target="_blank"> Junior Research group: Algorithmic Optimal Control</a> <br> Research assistant </td>
         </tr>        
         <tr>
             <td align="left" valign="top"> <b> 2008 </b> </td>
-            <td align="left" valign="top"> <a href="https://www.geomar.de/news/article/aus-ifm-geomar-wird-geomar" target="_blank"> Leibniz-Institut für Meeresforschung Kiel (IFM-GEOMAR)</a>, Kiel <br> Research assistant in the DFG project <a href="https://gepris.dfg.de/gepris/projekt/42144659?context=projekt&task=showDetail&id=42144659&" target="_blank">INTERDYNAMIK, "LOOP Current variability"</a></td>
+            <td align="left" valign="top"> <a href="https://www.geomar.de/news/article/aus-ifm-geomar-wird-geomar" target="_blank"> Leibniz-Institut für Meeresforschung Kiel (IFM-GEOMAR)</a>, Kiel <br> Research assistant in the DFG project <a href="https://gepris.dfg.de/gepris/projekt/42144659?language=en" target="_blank">INTERDYNAMIK, "LOOP Current variability"</a></td>
         </tr>        
         <tr>
             <td align="left" valign="top"> <b> 2007 </b> </td>
