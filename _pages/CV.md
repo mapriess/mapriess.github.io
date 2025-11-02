@@ -53,7 +53,7 @@ nav: true
     <tbody>
         <tr>
             <td align="left" valign="top"> <b> since 2024 </b> </td>
-            <td align="left" valign="top"> <a href="https://www.fh-kiel.de/en/home/" target="_blank"> FH Kiel | University of Applied Sciences</a>, <a href="https://www.fh-kiel.de/en/faculties/faculty-of-computer-science-and-electrical-engineering/" target="_blank"> Faculty of Computer Science and Electrical Engineering</a> <br> <a href="https://www.fh-kiel.de/en/faculties/faculty-of-computer-science-and-electrical-engineering/about-us/teaching/priess-prof-dr-malte/"> Professor for cloud technologies and applied computer science</a> </td>            
+            <td align="left" valign="top"> <a href="https://www.haw-kiel.de/en/home/" target="_blank"> HAW Kiel | Kiel University of Applied Sciences</a>, <a href="https://www.haw-kiel.de/en/faculties/faculty-of-computer-science-and-electrical-engineering/" target="_blank"> Faculty of Computer Science and Electrical Engineering</a> <br> <a href="https://www.haw-kiel.de/en/faculties/faculty-of-computer-science-and-electrical-engineering/about-us/teaching/priess-prof-dr-malte/"> Professor for cloud technologies and applied computer science</a> </td>            
         </tr>
         <tr>
             <td align="left" valign="top"> <b> 2016 - 2024 </b> </td>
