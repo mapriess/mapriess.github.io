@@ -6,8 +6,8 @@ title: Malte Prieß # the website title (if blank, full name will be used instea
 first_name: Malte
 middle_name: 
 last_name: Prieß
-email: malte@mpriess.space
-description: This is a scientific profile of Malte Prieß, data scientist and professor in the field of business informatics > # the ">" symbol means to ignore newlines until "footer_text:"
+email: mpriess@uber.space
+description: This is a scientific profile of Malte Prieß, professor for cloud technologies at Kiel University of Applied Sciences> # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
