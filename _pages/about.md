@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Professor for Cloud Technologies, [HAW Kiel, Kiel University of Applied Sciences](https://www.fh-kiel.de/en/home/)
+subtitle: Professor for Cloud Technologies | HAW Kiel, Kiel University of Applied Sciences
 last_modified_at:   2022-05-24 21:00:00 +0000
 
 profile:
