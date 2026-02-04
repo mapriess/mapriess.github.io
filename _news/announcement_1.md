@@ -6,4 +6,4 @@ inline: true
 
 The Seventeenth International Conference on Cloud Computing, GRIDs, and Virtualization CLOUD COMPUTING 2026:
 
-- Joint publication submitted: B. Puhani, K. Brehmer und M. Prieß (submitted), “A Cloud-Native Architecture for Human-in-Control LLM-Assisted OpenSearch in Investigative Settings"
+- Joint publication submitted: B. Puhani, K. Brehmer und M. Prieß, “A Cloud-Native Architecture for Human-in-Control LLM-Assisted OpenSearch in Investigative Settings"
