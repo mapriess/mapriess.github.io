@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2025-04-10 18:00:00 +0000
-inline: true
+inline: false
 ---
 
 The Sixteenth International Conference on Cloud Computing, GRIDs, and Virtualization CLOUD COMPUTING 2025:
