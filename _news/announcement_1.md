@@ -1,7 +1,9 @@
 ---
 layout: post
-date: 2025-04-03 18:00:00 +0000
-inline: false
+date: 2026-02-04 16:00:00 +0000
+inline: true
 ---
 
-Submission "Improving Applicability of Deep Learning based Token Classification models during Training".
+The Seventeenth International Conference on Cloud Computing, GRIDs, and Virtualization CLOUD COMPUTING 2026:
+
+- Joint publication submitted: B. Puhani, K. Brehmer und M. Prieß (submitted), “A Cloud-Native Architecture for Human-in-Control LLM-Assisted OpenSearch in Investigative Settings"
