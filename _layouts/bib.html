@@ -10,6 +10,10 @@
           <abbr class="badge">{{entry.abbr}}</abbr>
           {%- endif -%}
         {%- endif -%}
+        
+        {%- if entry.submitted -%}
+          <div class="submitted"><span class="badge">{{entry.submitted}}</span></div>
+        {%- endif -%}
         </div>
 
         <!-- Entry bib key -->
