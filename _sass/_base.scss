@@ -107,25 +107,28 @@ blockquote {
   }
 }
 
-@media (min-width: 700px) {
+@media (min-width: 576px) {
   .profile {
     width: 30%;
     .address {
       p { display: block; }
     }
   }
+}
+
+@media (max-width: 699px) {
   .publications {
     ol.bibliography {
       li {
         .row {
-          flex-direction: row;
+          flex-direction: column;
         }
         .col-sm-2 {
-          width: auto;
-          margin-bottom: 0;
+          width: 100%;
+          margin-bottom: 1rem;
         }
         .col-sm-8 {
-          width: auto;
+          width: 100%;
         }
       }
     }
