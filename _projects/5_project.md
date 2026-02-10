@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 2
+title: project 5
 description: a project with a background image
 img: assets/img/Automated-Invoice-Recognition.jpg
-importance: 2
-category: work
+importance: 3
+category: fun
 ---
 
 Every project has a beautiful feature showcase page.
