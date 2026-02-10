@@ -1,13 +1,11 @@
 ---
 layout: page
 title: Automated Invoice Recognition
-description: This project focuses on improving the practical applicability of deep learning models for automated invoice recognition. Using LayoutLM-based models for token classification on German receipts, the project addresses a critical gap in model evaluation during training.
+description: Improving Applicability of Deep Learning based Token Classification models during Training.
 img: assets/img/Automated-Invoice-Recognition.jpg
 importance: 1
 category: work
 ---
-
-**Automated Invoice Recognition -- Improving Applicability of Deep Learning based Token Classification models during Training**
 
 This project focuses on improving the practical applicability of deep learning models for automated invoice recognition. Using **LayoutLM-based models** for token classification on German receipts, the project addresses a critical gap in model evaluation during training.
 

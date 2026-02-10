@@ -1,13 +1,11 @@
 ---
 layout: page
 title: Towards Multi-Cloud Strategies
-description: This project explores multi-cloud strategies for modern enterprises seeking to improve agility and resilience while reducing vendor lock-in. Specifically, it focuses on the challenges and opportunities of integrating workloads across AWS and Alibaba Cloud, addressing critical interoperability and migration issues.
+description: Insights into AWS and Alibaba Cloud Synergy.
 img: assets/img/Multi-Cloud-Strategies.jpg
 importance: 1
 category: work
 ---
-
-**Towards Global Multi-Cloud Strategies -- Insights into AWS and Alibaba Cloud Synergy**
 
 This project explores **multi-cloud strategies** for modern enterprises seeking to improve agility and resilience while reducing **vendor lock-in**. Specifically, it focuses on the challenges and opportunities of integrating workloads across **AWS** and **Alibaba Cloud**, addressing critical **interoperability** and migration issues.
 
