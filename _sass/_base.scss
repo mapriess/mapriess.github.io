@@ -459,7 +459,7 @@ footer.sticky-bottom {
       .abbr {
         height: 2rem;
         margin-bottom: 0.5rem;
-        abbr, subm {
+        abbr {
           width: 110px;
           display: inline-block;
           background-color: var(--global-theme-color);
@@ -471,6 +471,14 @@ footer.sticky-bottom {
               text-decoration: none;
             }
           }
+        }
+        subm {
+          margin-top: 0.5rem;
+          width: 110px;
+          display: inline-block;
+          background-color: var(--global-theme-color2);
+          padding-left: 1rem;
+          padding-right: 1rem;
         }
         .award {
           color: var(--global-theme-color) !important;
