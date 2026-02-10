@@ -12,7 +12,8 @@
         {%- endif -%}
 
         {%- if entry.is_subm -%}
-          <div class="submitted"><span class="badge">submitted <br> {{entry.is_subm}}</span></div>
+          <abbr class="badge">submitted<br>{{entry.is_subm}}</abbr>
+          <!-- <div class="submitted"><span class="badge">submitted<br>{{entry.is_subm}}</span></div> -->
         {%- endif -%}
         </div>
 
