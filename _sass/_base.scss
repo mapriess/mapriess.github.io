@@ -413,6 +413,25 @@ footer.sticky-bottom {
     margin-bottom: 10px;
   }
 
+  .grid-item {
+    display: flex;
+  }
+
+  .grid-item > a {
+    display: block;
+    width: 100%;
+  }
+
+  .grid-item .card {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+  }
+
+  .grid-item .card-body {
+    flex: 1;
+  }
+
   h2.category {
     color: var(--global-divider-color);
     border-bottom: 1px solid var(--global-divider-color);
