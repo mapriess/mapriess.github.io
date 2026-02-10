@@ -1,80 +1,36 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: LLM-Assisted OpenSearch
+description: A Cloud-Native Architecture for Human-in-Control LLM-Assisted OpenSearch in Investigative Settings.
+img: assets/img/LLM-Assisted-OpenSearch.jpg
+importance: 1
+category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+This project addresses a critical challenge in **criminal investigations**: the 
+difficulty of searching through vast volumes of unstructured evidence while 
+bridging the semantic gap between **natural language** investigative intent and 
+technical search logic.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+The project develops a **cloud-native microservices architecture** specifically 
+tailored for **private cloud deployments** in investigative settings. At its core, 
+the system integrates **Large Language Models (LLMs)** into a **"Human-in-Control"** 
+workflow that translates natural language queries into syntactically valid 
+**OpenSearch Domain-Specific Language** expressions, ensuring investigators 
+maintain oversight and control throughout the search process.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+A key innovation is the implementation of a **hybrid retrieval strategy** within 
+**OpenSearch** that combines **BM25-based lexical search** with nested 
+**semantic vector embeddings**. This dual approach leverages both traditional 
+keyword matching and modern semantic understanding to improve search accuracy 
+and relevance.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+The project delivers a functional prototype demonstrating technical feasibility, 
+establishing an architectural baseline for future empirical evaluation. A rigorous 
+evaluation methodology is outlined using the **Enron email dataset** as a 
+structural proxy for restricted investigative corpora, enabling validation 
+without compromising sensitive law enforcement data.
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+This work provides a foundation for enhancing investigative capabilities through 
+AI-assisted search while maintaining the essential human oversight required in 
+law enforcement contexts.

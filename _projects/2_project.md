@@ -1,80 +1,32 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/Automated-Invoice-Recognition.jpg
+title: AI Usage for Vulnerability Assessment
+description: Graph of Effort: Quantifying Risk of AI Usage for Vulnerability Assessment.
+img: assets/img/AI-vulnerability-Assessment.jpg
 importance: 2
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+This project addresses the emerging **security challenges posed by offensive AI** - 
+the use of AI-based software to attack non-AI assets. With AI capabilities such as 
+high automation and complex pattern recognition becoming widely available, the 
+potential for exploitation significantly increases.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+While current research explores offensive AI utilization and classification, and 
+threat modeling methods are being developed for AI-based assets, critical gaps 
+remain. Organizations need effective ways to quantify the factors contributing to 
+AI threats and to assess the risk of AI-based attacks across all their assets. 
+This challenge is particularly acute in cloud environments with their sophisticated 
+infrastructure and complex access control landscapes.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+To address these challenges, this project developed the **Graph of Effort**, an 
+intuitive, flexible, and effective **threat modeling method**. The Graph of Effort 
+quantifies the effort required by an adversary to use offensive AI for vulnerability 
+exploitation, enabling security analysts to rank vulnerabilities and prioritize 
+proactive countermeasures.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+The project delivers a functional threat model that provides valuable support for 
+vulnerability assessment. It enables organizations to systematically analyze how 
+offensive AI could be leveraged against their assets and helps security teams make 
+informed decisions about defense strategies. Future work will focus on empirical 
+validation of the design choices underlying the threat model.
