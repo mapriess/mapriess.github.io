@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AI Usage for Vulnerability Assessment
-description: Graph of Effort: Quantifying Risk of AI Usage for Vulnerability Assessment
+description: This project addresses the emerging security challenges posed by offensive AI - the use of AI-based software to attack non-AI assets. With AI capabilities such as high automation and complex pattern recognition becoming widely available, the potential for exploitation significantly increases.
 img: assets/img/AI-vulnerability-Assessment.jpg
 importance: 1
 category: work

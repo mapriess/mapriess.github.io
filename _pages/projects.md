@@ -5,7 +5,7 @@ permalink: /projects/
 description: Projects I am working on.
 last_modified_at:   2024-03-04 21:00:00 +0000
 nav: true
-display_categories: [work, fun]
+display_categories: [work]
 horizontal: false
 ---
 

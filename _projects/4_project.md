@@ -1,7 +1,7 @@
 ---
 layout: page
 title: A Cloud-Native Architecture for LLM-Assisted OpenSearch
-description: A Cloud-Native Architecture for Human-in-Control LLM-Assisted OpenSearch in Investigative Settings
+description: This project addresses a critical challenge in criminal investigations: the difficulty of searching through vast volumes of unstructured evidence while bridging the semantic gap between natural language investigative intent and technical search logic.
 img: assets/img/LLM-Assisted-OpenSearch.jpg
 importance: 1
 category: work
