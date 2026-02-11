@@ -35,7 +35,7 @@ business-focused model training.
 This research project highlights the importance of task-specific evaluation metrics 
 in production environments and opens avenues for developing similar metrics for 
 other training tasks beyond token classification.
-
+<br><br>
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/2504.01028v1.jpg" title="arXiv:2504.01028v1 [cs.CV] 28 Mar 2025" class="img-fluid rounded z-depth-1" %}
