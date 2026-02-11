@@ -2,7 +2,7 @@
 layout: page
 title: Towards Multi-Cloud Strategies
 description: Insights into AWS and Alibaba Cloud Synergy.
-# img: assets/img/Multi-Cloud-Strategies.jpg
+img: assets/img/Multi-Cloud-Strategies.jpg
 importance: 1
 category: work
 ---

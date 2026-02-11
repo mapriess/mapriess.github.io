@@ -2,7 +2,7 @@
 layout: page
 title: Automated Invoice Recognition
 description: Improving Applicability of Deep Learning based Token Classification models.
-# img: assets/img/Automated-Invoice-Recognition.jpg
+img: assets/img/Automated-Invoice-Recognition.jpg
 importance: 3
 category: work
 ---
