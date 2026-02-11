@@ -2,16 +2,16 @@
 <html lang="en">
 
   <!-- Head -->
-  <head><meta http-equiv="refresh" content="3; url=https://mapriess.github.io/" />    <!-- Metadata, OpenGraph and Schema.org -->
+  <head>    <!-- Metadata, OpenGraph and Schema.org -->
     
 
     <!-- Standard metadata -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Malte Prieß | Page not found</title>
+    <title>Malte Prieß | Automated Invoice Recognition</title>
     <meta name="author" content="Malte  Prieß" />
-    <meta name="description" content="Looks like there has been a mistake. Nothing exists here." />
+    <meta name="description" content="Improving Applicability of Deep Learning based Token Classification models." />
     <meta name="keywords" content="Malte Prieß profile, jekyll, jekyll-theme, academic-website, portfolio-website" />
 
 
@@ -32,7 +32,7 @@
     <link rel="shortcut icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>⚛️</text></svg>">
     
     <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="canonical" href="https://mapriess.github.io/404.html">
+    <link rel="canonical" href="https://mapriess.github.io/projects/1_project/">
     
     <!-- Dark Mode -->
     
@@ -104,12 +104,59 @@
         <div class="post">
 
           <header class="post-header">
-            <h1 class="post-title">Page not found</h1>
-            <p class="post-description">Looks like there has been a mistake. Nothing exists here.</p>
+            <h1 class="post-title">Automated Invoice Recognition</h1>
+            <p class="post-description">Improving Applicability of Deep Learning based Token Classification models.</p>
           </header>
 
           <article>
-            <p>You will be redirected to the main page within 3 seconds. If not redirected, please click <a href="https://mapriess.github.io/">here</a>.</p>
+            <p>This project focuses on improving the practical applicability of deep learning 
+models for automated invoice recognition. Using <strong>LayoutLM-based models</strong> for token 
+classification on German receipts, the project addresses a critical gap in model 
+evaluation during training.</p>
+
+<p>The core challenge tackled in this project is that conventional classification 
+metrics like F1-Score are insufficient for evaluating whether machine learning 
+models are truly ready for production deployment. To solve this problem, the 
+project developed a <strong>novel evaluation metric</strong> called <strong>Document Integrity 
+Precision (DIP)</strong>, specifically designed for visual document understanding and 
+token classification tasks.</p>
+
+<p>DIP provides a rigorous measure of how many documents in the test dataset require 
+manual interventions, enabling AI researchers and software developers to 
+<strong>accurately assess the level of process automation achievable in business software</strong>. 
+Unlike conventional metrics that may show minimal changes despite significant model 
+impairments, DIP reliably indicates when models would require substantial human 
+intervention in deployment.</p>
+
+<p>The project includes comprehensive experiments demonstrating that as the number of 
+predicted entities increases, conventional metrics become less sensitive, leading to 
+poor automation quality assessments. DIP, in contrast, provides a single 
+interpretable value for entire entity sets, making it an essential metric for 
+business-focused model training.</p>
+
+<p>This research project highlights the importance of task-specific evaluation metrics 
+in production environments and opens avenues for developing similar metrics for 
+other training tasks beyond token classification.
+<br><br></p>
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/2504.01028v1.jpg" title="arXiv:2504.01028v1 [cs.CV] 28 Mar 2025">
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+<div class="caption">
+    <a href="https://arxiv.org/abs/2504.01028" target="_blank" rel="noopener noreferrer">arXiv:2504.01028v1 [cs.CV] 28 Mar 2025</a>
+</div>
 
           </article>
 
