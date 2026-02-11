@@ -2,7 +2,7 @@
 layout: page
 title: LLM-Assisted OpenSearch
 description: A Cloud-Native Architecture for Human-in-Control LLM-Assisted OpenSearch in Investigative Settings.
-img: assets/img/LLM-Assisted-OpenSearch.jpg
+# img: assets/img/LLM-Assisted-OpenSearch.jpg
 importance: 1
 category: work
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: AI Usage for Vulnerability Assessment
 description: Graph of Effort: Quantifying Risk of AI Usage for Vulnerability Assessment.
-img: assets/img/AI-vulnerability-Assessment.jpg
+# img: assets/img/AI-vulnerability-Assessment.jpg
 importance: 2
 category: work
 ---
